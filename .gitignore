@@ -1,0 +1,16 @@
+# Environment & secrets — NEVER commit these
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Saved chat history (local data, not code)
+chat_history.json
+
+# VS Code settings (optional)
+.vscode/
